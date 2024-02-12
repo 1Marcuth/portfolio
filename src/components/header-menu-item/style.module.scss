@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.header-menu-item {
+    a {
+        padding: .25rem .5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: .5rem;
+        color: #fff;
+        font-family: "JetBrains Mono", monospace;
+        font-size: .75rem;
+        text-decoration: none;
+        transition: .2s ease;
+
+        &:hover {
+            color: #ccc
+        }
+    }
+}
