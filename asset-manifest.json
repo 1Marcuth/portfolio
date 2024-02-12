@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portforlio/static/css/main.9cde9fd2.css",
+    "main.js": "/portforlio/static/js/main.bd48d9bd.js",
+    "static/js/787.f58f8924.chunk.js": "/portforlio/static/js/787.f58f8924.chunk.js",
+    "index.html": "/portforlio/index.html",
+    "main.9cde9fd2.css.map": "/portforlio/static/css/main.9cde9fd2.css.map",
+    "main.bd48d9bd.js.map": "/portforlio/static/js/main.bd48d9bd.js.map",
+    "787.f58f8924.chunk.js.map": "/portforlio/static/js/787.f58f8924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cde9fd2.css",
+    "static/js/main.bd48d9bd.js"
+  ]
+}
